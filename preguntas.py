@@ -26,5 +26,7 @@ def generar_csv(path):
 if __name__ == "__main__":
     generar_csv("data/train")
     generar_csv("data/test")
+    #
+
 
         
